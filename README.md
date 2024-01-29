@@ -1,6 +1,7 @@
 # Match Masters
 
 Match Masters is a full-stack web application designed to provide live updates, schedules, results, and standings for various football leagues. It utilizes the Football-Data API to fetch real-time data about matches and leagues.
+The website is fully functional and has a simplistic / modern design that uses real clubs emblems and other interesting features.
 
 ## Features
 - Live Match Updates: Get the latest updates on matches currently in play.
@@ -62,4 +63,6 @@ The Free Tier API Token is limited to 10 requests / minute. MatchMasters Website
 If you want to avoid this problems consider to upgrade your API plan.
 
 For any other informations feel free to contact me.
+
+Unfortunatly, the website is not hosted right now and it can only be used on an localhost server.
 
