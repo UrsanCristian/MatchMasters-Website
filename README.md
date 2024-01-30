@@ -66,3 +66,14 @@ For any other informations feel free to contact me.
 
 Unfortunatly, the website is not hosted right now and it can only be used on an localhost server.
 
+### Screenshots
+
+![Home Page](public/images/img1.png "Home Page")
+
+![Home Page](public/images/img11.png "Home Page")
+
+![Schedule Page](public/images/img2.png "Schedule Page")
+
+![Results](public/images/img3.png "Results")
+
+![Standings](public/images/img4.png "Standings")
